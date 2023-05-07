@@ -1,5 +1,5 @@
 
-Henri Lebesgueの師匠がBorel、Borelの師匠がDarboux(ダルブー)です. Darbouxの師匠はMichel Chaslesという人で, 彼はDarboux以外にHubert Anson Newtonを弟子に持ちます. Hubert Anson Newtonの弟子の弟子の弟子の弟子の弟子に悪名高きFedererがいて, 彼の弟子の弟子の弟子に我が指導教官がいます.
+Henri Lebesgueの師匠が Borel, Borel の師匠が Darboux(ダルブー)です. Darboux の師匠は Michel Chasles という人で, 彼は Darboux のほかに Hubert Anson Newton を弟子に持ちます. Hubert Anson Newton の弟子の弟子の弟子の弟子の弟子に悪名高き Federer がいて, 彼の弟子の弟子の弟子に我が指導教官がいます.
  
  
 # 更新履歴（最終更新日：5/7）
