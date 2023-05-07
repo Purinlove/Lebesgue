@@ -12,6 +12,6 @@ Henri Lebesgueの師匠が Borel, Borel の師匠が Darboux (ダルブー)で�
 ## 第1回 σ-algebras , Outer measures , Measures
 
 - 資料
-- <a href="education.html">問題演習</a>
+- <a href="1_Leb_e.pdf">問題演習</a>
 - 解答
 
