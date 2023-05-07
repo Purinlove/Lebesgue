@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
-title: Lebesgue積分
-description: あああ 
+title: Lebesgue Integral
 
 github:
   is_project_page: false
