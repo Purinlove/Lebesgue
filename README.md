@@ -6,6 +6,7 @@ Henri Lebesgueの師匠が Borel, Borel の師匠が Darboux (ダルブー)で�
  
 ## 更新履歴（最終更新日：5/14）
 
+- 6月4日　第3回の演習問題を載せました.
 - 5月14日　第2回の演習問題を載せました.
 - 5月7日　第1回の演習問題を載せました.
 - 5月7日　HP開設！ 
@@ -20,4 +21,10 @@ Henri Lebesgueの師匠が Borel, Borel の師匠が Darboux (ダルブー)で�
 
 - 資料
 - <a href="2_Leb_e.pdf">問題演習</a>
+- 解答
+
+## 第3回 Measurable functions
+
+- 資料
+- <a href="3_Leb_e.pdf">問題演習</a>
 - 解答
