@@ -4,8 +4,9 @@
 Henri Lebesgueの師匠が Borel, Borel の師匠が Darboux (ダルブー)です. Darboux の師匠は Michel Chasles という人で, 彼は Darboux のほかに Hubert Anson Newton を弟子に持ちます. Hubert Anson Newton の弟子の弟子の弟子の弟子の弟子にあの Federer がいて, 彼の弟子の弟子の弟子に我が指導教官がいます.
  
  
-## 更新履歴（最終更新日：6/4）
+## 更新履歴（最終更新日：2/14）
 
+- 2月14日　第4回の演習問題を載せました.
 - 6月4日　第3回の演習問題を載せました.
 - 5月14日　第2回の演習問題を載せました.
 - 5月7日　第1回の演習問題を載せました.
@@ -27,4 +28,10 @@ Henri Lebesgueの師匠が Borel, Borel の師匠が Darboux (ダルブー)で�
 
 - 資料
 - <a href="3_Leb_e.pdf">問題演習</a>
+- 解答
+
+## 第4回 Integral
+
+- 資料
+- <a href="4_Leb_e.pdf">問題演習</a>
 - 解答
